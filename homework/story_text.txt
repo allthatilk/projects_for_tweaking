@@ -1,0 +1,117 @@
+# Start Decision
+You are walking along a road in Cornwall when you see a small circle of stones.
+Do you go and take a closer look? Yes or No.
+
+# Stay Decision
+As you step into the circle of stones you are whisked away to a forested
+glade with a floor covered in tiny bluebells.
+The bluebells start ringing like tiny silver bells. You hear laughter approach.
+Do you wait and see who is approaching? Yes or No.
+
+# Play Decision
+You come across a group of piskies. They ask you to come and play.
+Do you want to play their games? Yes or No.
+
+# Tell Decision
+You have a wonderful time playing silly games and watching piskie wrestling.
+The piskies warn you not to tell anyone about your time in their realm.
+When you get home you wish you could tell everyone about your adventure.
+Do you risk telling anyone? Yes or No.
+
+# Tell Yes End
+You tell people about your adventures with the piskies.
+No one believes you. They now all think you've lost your marbles.
+You become 'that weirdo who believes in fairies'.
+You also lose sight in one eye and hearing in one ear.
+You learn a valuable lesson about listening to the advice of piskies.
+
+# Tell No End
+You keep your wonderful adventures to yourself.
+You go back to visit every summer.
+You live a long and happy life.
+
+# Tell Else End
+You tell marvelous stories about piskies but never your own.
+People love your stories, especially children.
+You write a wonderful children's book about piskies.
+You never see the piskies again.
+
+# Place Decision
+You politely decline to play with the piskies today and decide to explore.
+You come across a path that splits.
+One path goes to the sea, the other to a mine.
+Which path do you take? Sea or Mine.
+
+# Swim Decision
+You go down to see the sea. It's very beautiful and sunny.
+Do you go for a swim? Yes or No.
+
+# Swim Yes End
+You come across a beautiful mermaid. She smiles and sings to you.
+You move closer and closer....
+She reaches out and pulls you under the water, drowning you.
+You learn a valuable lesson about going swimming with mermaids.
+Or you would have if you weren't now fish food.
+
+# Swim No End
+You see mermaids splashing in the water, it's a lovely sight.
+You have a great day on the beach enjoying the waves.
+You go home and live happily ever after.
+
+# Swim Else End
+Your indecision distracts you from the magic hidden in the waves.
+Eventually the tide comes in and you run home disappointed.
+You learn an important lesson about indecision and tide timetables.
+
+# Throw Food Decision
+You go down to investigate the mine. It's dark, cool, and damp.
+You hear a knocking sound and remember an old tale.
+The tale says throwing food keeps Buccas happy.
+You have a pasty crust in your pocket. Do you throw it? Yes or No.
+
+# Bucca Yes End
+You throw your pasty crust and hear happy nomming sounds.
+A bucca gwidn comes to greet you and give you a tour of the mine.
+You have a great time and get a little copper and tin to take with you.
+The bucca gwidn makes sure you get safely home.
+
+# Bucca No End
+A bucca dhu chases you through the mine making a terrible noise.
+The bucca dhu calls a terrible storm to flood the mine.
+You nearly drown but scramble to safety at the last minute.
+You get home wet, muddy, and bruised.
+You learn a valuable lesson about being careful around mines.
+
+# Bucca Else End
+The buccas come and steal your pasty crust.
+They then kick you in the backside all the way home.
+You learn a valuable lesson about feeding hungry buccas.
+
+# Giant Death End
+You get stepped on by a giant.
+You learn a valuable lesson about staying out of the way of giants.
+Or you would have if you hadn't been squished by a giant.
+
+# Piskie Else End
+The piskies get impatient and turn you blind with a magic slap to the face.
+They leave you on the side of the road to fend for yourself.
+You learn a valuable lesson about being decisively polite to piskies.
+
+# Spriggan Death End
+You run away but come across an angry spriggan who turns you into a tree.
+You learn a valuable lesson about spriggan forest safety.
+Or you would have if you weren't now a tree.
+
+# Stone Circle Death End
+You turn to stone as you stand indecisively in the circle.
+You learn an important lesson about stone circle safety.
+Or you would have if you weren't now a big rock.
+
+# Tourist Death End
+You carry on walking and enjoy a pleasant but uneventful holiday...
+Until you get drunk and fall of a cliff in Newquay.
+Your family learns a valuable lesson about seaside safety.
+
+# Car Death End
+A car driving too fast down the small lane hits you.
+You die. The driver learns a valuable lesson about countryside road safety.
